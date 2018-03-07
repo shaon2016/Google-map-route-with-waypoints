@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Map Route</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="something_wrong">Something is wrong</string>
+</resources>
